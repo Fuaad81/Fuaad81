@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 📫 How to reach me **https://https://www.instagram.com/fuaad_x3/**
+- 📫 How to reach me **//https://www.instagram.com/fuaad_x3/**(instagram)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
