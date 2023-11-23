@@ -4,10 +4,10 @@
 <img align="center" alt="Coding" width="600" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
 
 
-- >🎈 Hi 👋, I'm **Fuaad Saneen**
-- >🌱 I’m currently learning **Flutter**
-- >🌟 I'm intrested in **Software development and Game development**
-- >📫 How to reach me [instagram](https://www.instagram.com/fuaad_x3)
+- >🎈 Hi 👋, I'm **Fuaad Saneen**<
+- >🌱 I’m currently learning **Flutter**<
+- >🌟 I'm intrested in **Software development and Game development**<
+- >📫 How to reach me [instagram](https://www.instagram.com/fuaad_x3)<
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
