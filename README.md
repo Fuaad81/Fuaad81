@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/fuaad saneen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fuaad saneen" height="30" width="40" /></a>
 <a href="https://instagram.com/fuaad_x3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fuaad_x3" height="30" width="40" /></a>
-<a href="https://t.me/mosses_x3" target="blank"><img align="center" src="https://www.google.com/search?q=telegram+icon+png&sca_esv=584875080&rlz=1C1VDKB_enIN1073IN1073&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjR7bDHsNqCAxVXPnAKHaDICzYQ_AUoAXoECAIQAw&biw=1366&bih=679&dpr=1#imgrc=Ru2EdX50eWDEjM" alt="mosses_x3" height="30" width="40" /></a>
+<a href="https://t.me/mosses_x3" target="blank"><img align="center" src="" alt="mosses_x3" height="30" width="40" /></a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fuaad81&show_icons=true&locale=en" alt="fuaad81" /></p>
