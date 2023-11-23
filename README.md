@@ -4,11 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fuaad81&label=Profile%20views&color=0e75b6&style=flat" alt="fuaad81" /> </p>
 
 - 🎈 Hi 👋, I'm **Fuaad Saneen**
-
 - 🌱 I’m currently learning **Flutter**
-
 - 🌟 I'm intrested in **Software development and Game development**
-
 - 📫 How to reach me [instagram](https://www.instagram.com/fuaad_x3)
 
 <h3 align="left">Connect with me:</h3>
