@@ -9,7 +9,7 @@
 
 - 🌟 I'm intrested in **Software development and Game development**
 
-- 📫 How to reach me https://www.instagram.com/fuaad_x3 **(instagram)**
+- 📫 How to reach me **[instagram]**(https://www.instagram.com/fuaad_x3)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
