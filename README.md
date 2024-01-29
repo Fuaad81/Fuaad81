@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=vina+sans&size=30&pause=1000&color=0BF700&random=false&width=435&lines=Fuaad+Saneen;SOFTWARE+DEVELOPER)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fuaad81&label=Profile%20views&color=0e75b6&style=flat" alt="fuaad81" /> </p>
-<img align="center" alt="Coding" width="600" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw32WnQonKp2uZp9BRKLygQM&ust=1706622565548000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCjitregoQDFQAAAAAdAAAAABAD">
+<img align="center" alt="Coding" width="600" src="https://images.app.goo.gl/Eq8ki66yhY49adWo6">
 
 
 - >🎈 Hi 👋, I'm **Fuaad Saneen**
