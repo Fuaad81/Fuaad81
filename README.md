@@ -4,9 +4,13 @@
 <img align="center" alt="Coding" width="600" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
 
+- 🎈 I’m  **Fuaad saneen**
+
 - 🌱 I’m currently learning **Flutter**
 
-- 📫 How to reach me **fuaad_x3**
+- 🌱 I’m pationate in **Software Developer and Game Developer**
+
+- 📫 How to reach me <a href="https://www.instagram.com/fuaad_x3">Instagram</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
