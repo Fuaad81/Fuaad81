@@ -17,6 +17,7 @@
 <a href="https://linkedin.com/in/fuaad-saneen-37a527294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fuaad-saneen-37a527294" height="30" width="40" /></a>
 <a href="https://instagram.com/fuaad_x3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fuaad_x3" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hpfuaad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hpfuaad" height="30" width="40" /></a>
+<a href="https://t.me/m1k3yx" > <img src="https://camo.githubusercontent.com/7eb0a926fc92f22…e636f6d2f3531322f323637332f323637333730322e706e67" width="40" height="40"> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
