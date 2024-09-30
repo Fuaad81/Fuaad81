@@ -1,32 +1,30 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&pause=1000&color=6DFFF9&vCenter=true&random=false&width=435&lines=FUAAD+SANEEN;FLUTTER+FULLSTACK+DEVELOPER)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fuaad81&label=Profile%20views&color=0e75b6&style=flat" alt="fuaad81" /> </p>
 <img align="center" alt="Coding" width="600" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
+# 💫 About Me:
+🔭 I’m Fuaad Saneen<br>👯 I’m currently learning Flutter<br>🤝 I’m Software Developer and Game Developer<br>💬 Ask me about Flutter and Firebase
 
 
-- 🎈 I’m  **Fuaad saneen**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_fuaad._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fuaad-saneen-37a527294) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Fuaad) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Fuaad-Saneen-6) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/fuaad-saneen) 
 
-- 🌱 I’m currently learning **Flutter**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Fuaad81&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Fuaad81&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fuaad81&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🌱 I’m pationate in **Software Developer and Game Developer**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-- 📫 How to reach me <a href="https://www.instagram.com/fuaad_x3">Instagram</a>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Fuaad81&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/fuaad-saneen-37a527294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fuaad-saneen-37a527294" height="30" width="40" /></a>
-<a href="https://instagram.com/fuaad_x3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fuaad_x3" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hpfuaad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hpfuaad" height="30" width="40" /></a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=Fuaad81&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fuaad81&show_icons=true&locale=en&layout=compact" alt="fuaad81" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fuaad81&show_icons=true&locale=en" alt="fuaad81" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fuaad81&" alt="fuaad81" /></p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
   
 
