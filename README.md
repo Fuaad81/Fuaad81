@@ -3,7 +3,11 @@
 <img align="center" alt="Coding" width="600" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
 # 💫 About Me:<br>
-🔭 I’m Fuaad Saneen<br>👯 I’m currently learning Flutter<br>🤝 I’m Software Developer and Game Developer<br>💬 Ask me about Flutter and Firebase
+🔭 I’m Fuaad Saneen<br>
+👯 I’m currently learning Flutter<br>
+🤝 I’m Software Developer and Game Developer<br>
+💬 Ask me about Flutter and Firebase
+👨‍🦯 How to reach me <a href="https://www.instagram.com/_fuaad._">Instagram</a>
 
 
 ## 🌐 Socials:
