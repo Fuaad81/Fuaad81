@@ -4,10 +4,10 @@
 <img align="center" alt="Coding" width="600" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
 
 # 💫 About Me:<br>
-🔭 I’m Fuaad Saneen<br>
-👯 I’m currently learning Flutter<br>
-🤝 I’m Software Developer and Game Developer<br>
-💬 Ask me about Flutter and Firebase<>
+🔭 I’m **Fuaad Saneen**<br>
+👯 I’m currently learning **Flutter**<br>
+🤝 I’m pationate in **Software Developer and Game Developer**<br>
+💬 Ask me about **Flutter and Firebase**<br>
 👨‍🦯 How to reach me <a href="https://www.instagram.com/_fuaad._">Instagram</a>
 
 
