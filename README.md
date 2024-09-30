@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&pause=1000&color=6DFFF9&vCenter=true&random=false&width=435&lines=FUAAD+SANEEN;FLUTTER+FULLSTACK+DEVELOPER)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fuaad81&label=Profile%20views&color=0e75b6&style=flat" alt="fuaad81" /> </p>
 <img align="center" alt="Coding" width="600" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
-<img align="center" alt="Coding" width="600" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
 
 # 💫 About Me:<br>
 🔭 I’m **Fuaad Saneen**<br>
